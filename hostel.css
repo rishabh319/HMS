@@ -1,0 +1,137 @@
+body{
+	background:rgba(30,30,30,0.1);
+}
+
+.About{
+	padding:30px 60px;
+	font-size:15px;
+}
+.div1{
+	float:left;
+	margin:20px 25px;
+	padding:5px;
+	width:450px;
+}
+.div2{
+	float:left;
+	margin:20px;
+	padding:5px;
+	width:450px;
+}
+.div3{
+	float:left;
+	margin:20px;
+	padding:5px;
+	width:450px;
+}
+.img{
+	height:300px;
+	width:450px;
+	border:1px solid black;
+}
+.view{
+	text-align:center;
+}
+.view h2{
+	padding:5px;
+}
+
+.tb{
+	margin-left:50px;
+	margin-right:50px;	
+	margin-top:100px;
+}
+
+.stud_info{
+	height:25px;
+	width:40px;
+	text-align:center;
+	background:#ff6600;
+	color:#fff;
+	float:right;
+	border-radius:20px;
+}
+.stud_info:hover{
+ background:#ffae42;
+}
+button{
+	border: none;
+    outline: none;
+	width:200px;
+    height: 40px;
+    background: #1c8adb;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+button:hover{
+	cursor: pointer;
+    background: #39dc79;
+    color: #000;
+}
+.tb{
+	margin-top:100px;
+}
+
+.table1{
+	margin-bottom:100px;
+}
+
+
+.btn_danger{
+	background:#ff0000;
+	width:120px;
+	text-align:center;
+}
+.btn_success{
+	background:#39ff14;
+	width:120px;
+	text-align:center;
+}
+.status div{
+	color:#fff;
+	margin: 0 auto;
+	padding:5px;
+	text-align:center;
+	border-radius:20px;
+	text-decoration:none;
+}
+.status .btn_danger:hover{
+	background:#cd5c5c;
+}
+.status .btn_success:hover{
+	background:#00A572;	
+}
+.action{
+	margin: 0 auto;
+	background:#ed2939;
+	color:#fff;
+	padding:5px;
+	text-align:center;
+	border-radius:20px;
+	text-decoration:none;
+}
+.table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	padding:50px;
+}
+
+.td, .th {
+	border: 2px solid #dddddd;
+	text-align: center;
+	padding: 8px;
+}
+.tr:nth-child(even) {
+	background-color: #dddddd;
+}
+
+
+
+
+
+
+
+
+

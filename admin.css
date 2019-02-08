@@ -1,0 +1,34 @@
+body{
+	background:#dadada;
+}
+
+.table{
+	margin:0px 20px;	
+}
+.table thead{
+	background:#a5d8dd;	
+}
+.table tbody{
+	background:#ced2cc;
+}
+button{
+	border: none;
+    outline: none;
+	width:70px;
+    font-size: 22px;
+    border-radius: 20px;
+}
+.check{
+	
+	background:#32cd32;
+	
+}
+.check:hover{
+	background:rgba(30,200,48,0.5);
+}
+.close{
+    background:#ed2939;
+}
+.close:hover{
+    background:rgba(200,30,48,0.5);
+}
